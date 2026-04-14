@@ -14,7 +14,7 @@ A single-page dark-themed portfolio covering:
 ## Built with
 
 - HTML & CSS (no frameworks, no build step)
-- [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans) (headings) and [Lato](https://fonts.google.com/specimen/Lato) (body) via Google Fonts
+- Noto Sans (headings) and Lato (body) via Google Fonts
 - Hosted on [GitHub Pages](https://pages.github.com/)
 
 ## Live
