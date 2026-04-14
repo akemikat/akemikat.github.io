@@ -1,4 +1,4 @@
-# akemikat.github.io
+# katkorson.github.io
 
 Personal portfolio site for **Kat Korson**, Founder & Technical Director at [Red Eagle Tech](https://redeagle.tech).
 
@@ -19,4 +19,4 @@ A single-page dark-themed portfolio covering:
 
 ## Live
 
-[akemikat.github.io](https://akemikat.github.io/)
+[katkorson.github.io](https://katkorson.github.io/)
